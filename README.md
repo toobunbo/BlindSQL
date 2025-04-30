@@ -14,4 +14,11 @@
 ## Đây là nội dung chính của cái post này (đọc từ đây nghe mấy con gà)
 - Lấy ý tưởng từ một chall của DreamHackm ta có một server nho nhỏ cần khai thác như sau:
 ![image](https://github.com/user-attachments/assets/e78c22f1-ff51-4c68-bb68-f87b72997b74)
+- Ta chỉ được biết mật khẩu được viết bằng ASCII hoặc tiếng Hàn (thì làm như nào)
+## Write -up
+### Xác định độ dài mật khẩu
+### Phân tách mật khẩu thành Bit (không rõ cho lắm)
+### Dò mật khẩu bằng Bit
+### Dịch ngược lại thành mật khẩu ký tự
+
 
